@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋
+About Me
 
-<!--
-**idubeyaditya/idubeyaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Started with Python → moved into Data Handling
+🤖 Currently diving into Machine Learning
+📖 Love reading Manga & Manhwa when not coding
+🌱 Always learning, always building
 
-Here are some ideas to get you started:
+📚 Learning  →  Machine Learning
+🔧 Tools     →  Python, Pandas, NumPy
+🎯 Goal      →  Build real ML projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
