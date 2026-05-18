@@ -7,7 +7,9 @@ About Me
 🌱 Always learning, always building
 
 📚 Learning  →  Machine Learning
+
 🔧 Tools     →  Python, Pandas, NumPy
+
 🎯 Goal      →  Build real ML projects
 
 
