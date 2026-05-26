@@ -8,7 +8,7 @@ About Me
 
 📚 Learning  →  Machine Learning
 
-🔧 Tools     →  Python, Pandas, NumPy
+🔧 Tools     →  Python, Pandas, NumPy , Scikit Learn 
 
 🎯 Goal      →  Build real ML projects
 
