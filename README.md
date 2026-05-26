@@ -1,7 +1,7 @@
 Hi there 👋
 About Me
 
-🐍 Started with Python → moved into Data Handling
+🐍 Started with Python → 
 🤖 Currently diving into Machine Learning
 📖 Love reading Manga & Manhwa when not coding
 🌱 Always learning, always building
